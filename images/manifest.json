@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://koecki-hash.github.io/MaryJane/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in koecki-hash/MaryJane project"
+        ]
+    },
+    "items": []
+}
